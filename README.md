@@ -10,5 +10,5 @@
 ## 💻 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/drum-kit.git
+   git clone https://github.com/naz-rezaei/drum-kit.git
 2. Open the index.html file in your browser.
